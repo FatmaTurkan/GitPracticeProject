@@ -8,6 +8,7 @@ public class Class1 {
 		int num = 100;
 		
 		//Here is some note to check the git!!!
+		//To make a new commit!!!
 		
 	}
 
