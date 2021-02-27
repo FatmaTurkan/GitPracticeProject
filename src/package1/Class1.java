@@ -10,6 +10,8 @@ public class Class1 {
 		//Here is some note to check the git!!!
 		//To make a new commit!!!
 		
+		//Today we have seen new comments on Git 
+		
 	}
 
 }
