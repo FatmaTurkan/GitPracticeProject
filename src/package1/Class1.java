@@ -11,7 +11,7 @@ public class Class1 {
 		//To make a new commit!!!
 		
 		//Today we have seen new comments on Git 
-		System.out.println("Hello from GitHib");
+		System.out.println("Hello from GitHub");
 		
 	}
 
